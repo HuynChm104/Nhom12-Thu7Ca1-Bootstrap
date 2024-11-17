@@ -1,0 +1,40 @@
+.container {
+    padding: 30px;
+}
+
+
+/*--------------------CSS BAI 1---------------------*/
+.col-md-4 {
+    padding: 20px;
+}
+
+.col-md-4 img {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-md-4 p {
+    text-align: center;
+}
+
+/*------------------------- CSS BAI 3 ------------------------*/
+
+.card-body .card-price {
+    font-weight: 600;
+    color: red;
+}
+
+.card-body .card-price:hover {
+    text-decoration: underline;
+    font-size: 17px;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+
+.card-body a {
+    font-weight: 600;
+}
+
+
